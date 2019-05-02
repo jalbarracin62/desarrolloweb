@@ -1,0 +1,90 @@
+
+
+Participantes:
+
+Diego Pacheco Paramo
+Director de Investigaciones ECEI
+COINVESTIGADOR
+Ingeniero Electrónico
+Msc. Tecnologías, Sistemas y Redes de Comunicaciones
+PhD. Telecomunicaciones.
+Postdoctoral Researcher - Télécom ParisTech
+Investigador Junior ColCiencias
+Linea de investigacion : Telecomunicaciones
+
+Marco Teran De la Hoz
+Estuadiante de Doctorado - auxiliar de investigación
+Ingeniero Electrónico
+Msc. Ingeniería Electrónica 
+Universidad Estatal Técnica de Moscú Bauman
+PhD(c).
+Especializado en Sistemas de Navegación por satélite,
+sistemas de radar y de radio-control.
+Linea de investigacion: GNSS, Navegación indoor,
+procesamiento digital de señales, 
+procesamiento estadístico de señales.
+
+Nicolas Amezquita Gomez
+INVESTIGADOR PRINCIPAL
+Ingeniero Electrónico
+Msc. Computer Security and Intelligent Systems.
+PhD. Computer Vision & Pattern Recognition.
+-Machine Learning, Artificial Neural Networks,Deep Learning, 
+Object Detection,Recognition and Tracking.
+Linea de investigacion: Mobile Robotics and Intelligent Systems.
+
+German Dario Corzo
+COINVESTIGADOR
+Capitán - comandante del grupo de investigación del Batallón de Investigación Desarrollo e Innovación de Inteligencia
+Ingeniero Electrónico
+Especialización Telecomunicaciones.
+Especialización Sensores Electromagnéticos
+Msc. Ingeniería Electrónica
+Linea de investigacion: inteligencia artificial,reconocimiento patrones,Análisis de Señales,sistemas electrónicos para seguridad.
+
+Tatina Manrique Espindola
+COINVESTIGADOR
+Ingeniera Electrónica
+Msc. Ingeniería Electrónica
+Phd. Control y Automatización
+Investigador Junior ColCiencias
+Linea de investigacion: Teoría de Control,
+Control Predictivo,Vehículos Eléctricos de bajo consumo
+ y Vehículos Híbridos, Convertidores de potencia.
+
+
+Efrain Uchamocha
+AUXILIAR DE INVESTIGACIÓN
+Sargento.
+Tecnologo en Electronica
+Batallón de Investigación, Desarrollo e Innovación de inteligencia.
+
+
+
+Álvaro Andrés Guzmán Castañeda
+COINVESTIGADOR
+Ingeniero Electrónico
+Batallón de Investigación, Desarrollo e Innovación de inteligencia
+
+
+
+Sistema Modular de Monitoreo Multimisión para Aeronaves Remotamente Tripuladas (SMART)
+
+El SMART se compondrá de tres sistemas modulares de monitoreo:
+
+• Monitoreo del espectro electromagnético: Recolección de ondas electromagnéticas, en particular las bandas satelitales y de VHF/UHF en zonas protegidas ambientalmente.
+
+• Monitoreo del terreno: Generación informacion geoespaciales (LiDAR 3D, imágenes RGB y espectrales) que permitan hacer modelos digitales y análisis de terreno de zonas protegidas ambientalmente.
+
+• Monitoreo de huellas acústicas: Recolección de ondas acústicas para identificación de personas y objetos que no deben estar presentes en zonas protegidas ambientalmente.
+
+El proyecto se realiza en conjunto entre la Universidad Sergio Arboleda y el Ejército colombiano, representado por la Escuela de Inteligencia y Contrainteligencia BG.-Ricardo-Charry-Solano y el Batallón de Investigación, Desarrollo e Innovación de Inteligencia de la Brigada-de-Inteligencia-Militar No. 1
+
+
+
+
+
+
+
+
+
